@@ -28,3 +28,5 @@ begin
 	end;
 end;
 /
+
+-- @03_global_local_variable.sql

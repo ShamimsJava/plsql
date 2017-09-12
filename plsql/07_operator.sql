@@ -75,3 +75,5 @@ begin
 	end if;
 end;
 /
+
+-- @07_operator.sql

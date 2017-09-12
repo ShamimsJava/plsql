@@ -11,3 +11,5 @@ begin
 	dbms_output.put_line(message);
 end;
 /
+
+-- @01_simple_print.sql

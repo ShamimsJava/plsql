@@ -16,3 +16,5 @@ begin
 	dbms_output.put_line('Hello' || salutation || greetings);
 end;
 /
+
+-- @02_subtype.sql

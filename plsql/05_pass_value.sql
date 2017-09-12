@@ -17,3 +17,5 @@ begin
 	dbms_output.put_line('Salary is: ' || c_salary);
 end;
 /
+
+-- @05_pass_value.sql

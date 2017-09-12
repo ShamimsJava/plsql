@@ -21,3 +21,5 @@ begin
 	-- output is: This is Shamim's code. 
 end;
 /
+
+-- @06_constant.sql

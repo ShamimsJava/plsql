@@ -31,3 +31,5 @@ desc customers;
 
 -- showing all data from table 
 select * from customers;
+
+-- @04_customers.sql
