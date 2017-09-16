@@ -3,7 +3,7 @@ Chapter 6
 Md. Shamim Sarker
 ===================================================*/
 
-/*
+
 --page number 5
 select last_name, salary
 from employees
@@ -12,7 +12,7 @@ where salary > (
 	from employees
 	where last_name = 'Abel'
 	);
-*/
+
 
 /*
 --page number 8
