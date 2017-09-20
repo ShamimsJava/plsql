@@ -1,0 +1,11 @@
+create or replace procedure showData(
+	eId employees.employee_id%type
+) is
+begin
+	select employee_id into eId
+	from employees;
+	select *
+	from employees
+	where employee_id = eId;
+end;
+/
